@@ -1,0 +1,23 @@
+.wrapper{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.container{
+    background-color:#f8f8f8;
+    padding:10px;
+    width:300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    flex-direction: column
+}
+.input-container{
+    margin-top:10px;
+    width:100%;
+    justify-content: center;
+    display: flex;
+}
